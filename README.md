@@ -21,6 +21,6 @@ Apex Auto Mods is a full-stack web application that allows users to customize, s
   - Change car color
   - Select spoilers and rims
 -  Save custom builds to dashboard
--  Edit and 🗑️ Delete saved builds
+-  Edit and  Delete saved builds
 -  View user-specific build stats
 -  Responsive modern UI using Tailwind CSS
